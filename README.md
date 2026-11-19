@@ -104,6 +104,10 @@ Skills for working with complex file formats:
 - ~[simonw/claude-skills](https://github.com/simonw/claude-skills) - Extracted contents of `/mnt/skills` from Claude's code interpreter environment~
   - _Now part of Anthropic's skills repo under [document-skills](https://github.com/anthropics/skills/tree/main/document-skills)_
 
+### Website Building
+
+- **[web-builder](https://github.com/skillux-hub/web-builder)** - Build complete, verified websites from a written brief in Claude Code, Cursor, or Codex: 11 website types x 26 functional modules, Skillux template selection with entitlement checks, and a project record that separates planned, scaffolded, and verified work. Free and open-source (MIT).
+
 _More community skills coming soon! Submit a PR to add your skill._
 
 ## :pencil2: Creating Your First Skill
